@@ -55,4 +55,6 @@ build/
 
 ### VS Code ###
 .vscode/
-/MyCloseNotes.txt
+
+### Other ###
+/src/main/resources/application.properties$
